@@ -1,4 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/LXcrfC_Y)
+
+## Repositori Activitats
+
+[Repositori](https://github.com/SergiAlbalat/M09T2Activitats)
+
 ## Exercici 1:
 ### 1. Process:
    
@@ -21,3 +26,7 @@
   - TraceWarning(string message)
   - TraceError(string message)
   - Listeners()
+
+## Exercici 3(Explicació):
+
+Els navegadors moderns tenen una arquitectura multiproces, multifil que permet que nomes es crein processos nous al obrir pesatnyes, aixo provoca que apareguin nous fils
