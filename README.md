@@ -31,6 +31,15 @@
 
 Els navegadors moderns tenen una arquitectura multiproces, multifil que permet que nomes es crein processos nous al obrir pesatnyes, aixo provoca que apareguin nous fils
 
+## Exercici 4:
+
+| Thread | Task |
+|:--------------------------|----------------------------:|
+|Start(): Iniciar un nou fil|Task.Run(): Iniciar una Tasca|
+|Sleep(int): Suspendre un fil durant un temps especific|Delay(int): Equivalent a sleep però te un millor control per evitar el bloqueig del fil|
+|Join(): Bloqueja el MasterThread fins que el fil acaba|Wait(): Similar a Join però per tasques|
+|Priority: Dona prioritat al fil|ConfigureAwait(bool): Cambia com es tractada la tasca en l'ordre d'execució|
+
 ## Exercici 5:
 
 ### A)
