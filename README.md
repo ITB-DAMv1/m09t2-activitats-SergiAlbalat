@@ -30,3 +30,11 @@
 ## Exercici 3(Explicació):
 
 Els navegadors moderns tenen una arquitectura multiproces, multifil que permet que nomes es crein processos nous al obrir pesatnyes, aixo provoca que apareguin nous fils
+
+## Exercici 5:
+
+### A)
+
+S'imprimeixen amb ordre aleatori perque segueixen un ordre de prioritat que el sistema operatiu decideix.
+
+
